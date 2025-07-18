@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Yihan Zhang
+## 👋 Hi, I’m Xiaoxi Liao
 I’m currently a graduate student at **Harbin Institute of Technology (HIT)**.
 
 - 📬 Email: 24s130269@stu.hit.edu.cn
